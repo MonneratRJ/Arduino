@@ -1,0 +1,3 @@
+A line follower robot, using 5 LDRs as sensors (i recommend using Reflectancy Sensors), a code with PID, using an L293D IC as H Bridge and controlling two DC motors...
+
+TINKERCAD SIMULATION: https://www.tinkercad.com/things/hQ3SW1MiuRL
